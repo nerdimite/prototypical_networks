@@ -21,7 +21,7 @@ This repository is part of first of a three-part webinar series on Meta Learning
 1. Download the [train](https://github.com/brendenlake/omniglot/blob/master/python/images_background.zip) and [evaluation](https://github.com/brendenlake/omniglot/blob/master/python/images_evaluation.zip) datasets.
 2. Unzip the downloaded zip files in a folder called `omniglot/`.
 3. Run the code cells in [ProtoNets-Omniglot.ipynb](ProtoNets-Omniglot.ipynb).
-4. Alternatively, you can run this repository in colab <a href="https://colab.research.google.com/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+4. Alternatively, you can run this repository in colab <a href="https://colab.research.google.com/drive/1We4qwJBBA8BwLuOIQZKLLU4MzskWDHUH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Credits
 
