@@ -3,7 +3,7 @@
 ProtoNets learns a metric space for solving few-shot classification by computing distances between the query image and a prototype representation of the class.
 
 This repository is part of first of a three-part webinar series on Meta Learning.
-1. [Metric-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271470964/)
+1. [Metric-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271470964/) (this)
 2. [Model-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271778989/)
 3. [Optimization-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271778940/)
 
