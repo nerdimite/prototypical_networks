@@ -1,6 +1,6 @@
 # Prototypical Networks
 
-ProtoNets learns a metric space for solving few-shot classification by computing distances between the query image and a prototype representation of the class. The theoretical concepts associated with this repository can be read here on [CellStrat's Blog](https://www.cellstrat.com/2020/07/23/metric-based-meta-learning/).
+ProtoNets learns a metric space for solving few-shot classification by computing distances between the query image and a prototype representation of the class.
 
 ## Requirements
 
